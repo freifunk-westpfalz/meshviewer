@@ -3,7 +3,9 @@
 # Meshviewer
 
 Meshviewer is a frontend for
-[ffmap-backend](https://github.com/ffnord/ffmap-backend).
+[ffnord's ffmap-backend](https://github.com/ffnord/ffmap-backend)
+forked by [ffmwu's ffmap-backend](https://github.com/freifunk-mwu/ffmap-backend)
+and customized as [ffwp's ffmap-backend](https://github.com/freifunk-westpfalz/ffmap-backend).
 
 
 [Changelog](CHANGELOG.md)
